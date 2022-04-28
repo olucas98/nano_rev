@@ -1,0 +1,4 @@
+[connectivity]
+sp=nano_rev_1.win:DDR[0]
+sp=nano_rev_1.kern:DDR[1]
+sp=nano_rev_1.out:DDR[0]
